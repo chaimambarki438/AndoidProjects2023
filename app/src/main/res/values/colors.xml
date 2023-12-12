@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <color name="backgroundColor">#FFFFFF</color> <!-- Set your desired CardView background color -->
+        <color name="textColor">#212121</color> <!-- Set your desired text color -->
+        <color name="textColorSecondary">#757575</color> <!-- Set your desired secondary text color -->
+
+
+    <color name="colorAccent">#FF4C2093</color>
+    <color name="colorPrimary">#00FEA2</color>
+    <color name="colorPrimaryDark">#00FE0D</color>
+
+        <color name="primaryText">#333333</color>
+        <color name="dividerColor">#CCCCCC</color>
+        <!-- Add more color definitions if needed -->
+
+
+
+
+        <color name="buttonTextColor">#FFFFFF</color>
+
+
+
+    <!-- res/values/colors.xml -->
+
+
+
+        <color name="background">#F5F5F5</color>
+        <color name="cardBackground">#F5F5F5</color>
+        <color name="editTextBackground1">#E0E0E0</color>
+        <color name="editTextColor1">#000000</color>
+        <color name="editTextHintColor">#757575</color>
+        <color name="buttonBackground1">#2196F3</color>
+        <color name="iconTint">#616161</color>
+
+        <color name="colorButtonText">#212121</color>
+        <!-- Add other color resources as needed -->
+
+
+
+
+
+        <color name="editTextBackground">#FFFFFF</color> <!-- Change to your desired EditText background color -->
+        <color name="editTextColor">#212121</color> <!-- Change to your desired EditText text color -->
+
+        <color name="buttonBackground">#3F51B5</color> <!-- Change to your default button background color -->
+        <color name="buttonBackgroundPressed">#303F9F</color> <!-- Change to your pressed button background color -->
+
+
+
+        <color name="messageTextColor">#FF0000</color> <!-- Change to your desired message text color -->
+
+
+
+    <!-- Add more color definitions if needed -->
+
+
+
+</resources>
